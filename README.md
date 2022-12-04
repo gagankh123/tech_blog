@@ -1,1 +1,1 @@
-# tech_blog
+### Adding Code snippet used for tech_blog.
